@@ -1,0 +1,1 @@
+run_id,model_name,model_version,configuration,method,symmetry_enabled,view_enabled,run_number,seed,timeout_sec,memory_limit_mb,elapsed_sec,states_generated,distinct_states,result_status,property_violated,counterexample_found,notes
